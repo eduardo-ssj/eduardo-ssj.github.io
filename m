@@ -71,7 +71,7 @@
 <body>
 
   <nav>
-    <a href="mailto:eduardo@email.com">Email</a>
+    <a href="mailto:eduardo-carbajall54@dgb.edu.mx">Email</a>
     <a href="https://www.linkedin.com/in/eduardocarbajal" target="_blank">LinkedIn</a>
     <a href="https://github.com/eduardocarbajal" target="_blank">GitHub</a>
   </nav>
